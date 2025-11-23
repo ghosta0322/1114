@@ -1,0 +1,28 @@
+@charset "utf-8";
+.container header {
+    background-color: #C688CC;
+}
+.container header nav {
+    background-color: #C688CC;
+}
+.container #hero {
+    background-image: url(images/app_icon_192.18de065c.png);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,209,255,1.00) 9.33%,rgba(255,2,190,1.00) 100%,rgba(0,211,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,209,255,1.00) 9.33%,rgba(255,2,190,1.00) 100%,rgba(0,211,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(153,209,255,1.00) 9.33%,rgba(255,2,190,1.00) 100%,rgba(0,211,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(153,209,255,1.00) 9.33%,rgba(255,2,190,1.00) 100%,rgba(0,211,255,1.00) 100%);
+}
+.container .banner {
+    background-image: url(images/Tears-of-Themis_04-19-21_Top.jpg);
+}
+.container #contact .button {
+    background-color: #6086ED;
+}
+.container #contact {
+    background-image: url(images/%E5%B4%A9%E5%A3%9E_%E5%9B%A0%E7%B7%A3%E7%B2%BE%E9%9D%88.jpg);
+}
+.container .copyright {
+    background-color: #2DB839;
+}
